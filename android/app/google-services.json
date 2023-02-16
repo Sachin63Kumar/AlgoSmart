@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "457138333765",
+    "project_id": "dsa-app-33d20",
+    "storage_bucket": "dsa-app-33d20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457138333765:android:930d5f5620b1578d4a5b2c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_complete_guide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457138333765-m0072h54ndjmnll0huqbf1is5gojnp4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfdxaje0KVi3PHZU8xgNyGz0tob7MYR0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457138333765-m0072h54ndjmnll0huqbf1is5gojnp4v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
