@@ -26,11 +26,6 @@ AlgoSmart is a Flutter app designed to help students learn and understand Data S
 - Bubble Sort
 - Insertion Sort
 - Quick Sort
-## Contributing
-
-Contributions are always welcome!
-
-If you would like to contribute to this app, feel free to fork the repository and submit a pull request with your changes. Please ensure that your code follows the existing code style and that all tests pass before submitting.
 
 ## Screenshots
 #### Register Page, Home Page and Login Page
@@ -71,3 +66,9 @@ If you would like to contribute to this app, feel free to fork the repository an
 <p align="center">
   <img src="https://user-images.githubusercontent.com/97790193/236663546-8de1fa11-8bdd-4428-beba-50ca9b54cb56.png">
 </p>
+
+
+## Contributing
+Contributions are always welcome!
+
+If you would like to contribute to this app, feel free to fork the repository and submit a pull request with your changes. Please ensure that your code follows the existing code style and that all tests pass before submitting.
